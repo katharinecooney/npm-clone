@@ -126,14 +126,10 @@ header .container {
 /********** WHAT IS NPM *********/
 
 .npm-description {
-  background-color: pink;
+  background-image: url("images/forklift.svg");
 }
 
 .install-npm-button {
-  background-color: rgb(49, 68, 88);
-}
-
-.install-npm-btn {
   background-color: rgb(49, 68, 88);
 }
 
